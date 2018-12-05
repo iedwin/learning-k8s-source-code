@@ -4,7 +4,7 @@
 
 ## 基本用法
 Type()得到的是静态类型，Kind()得到的是相关类型
-```
+```go
 package main
 
 import (
